@@ -1,0 +1,10 @@
+git config --global --add safe.directory D:/re2_simple/client   초기화 
+
+
+git add . 
+
+> git commit -m "first1"
+
+git config user.name "bkstory2"
+
+git config user.email "bkstory@nate.com"
