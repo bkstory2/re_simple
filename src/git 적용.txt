@@ -1,4 +1,4 @@
-git config --global --add safe.directory D:/re2_simple/client   초기화 
+git config --global --add safe.directory D:/re2_simple/client   >>> 폴더 초기 화
 
 
 git add . 
@@ -7,4 +7,7 @@ git add .
 
 git config user.name "bkstory2"
 
-git config user.email "bkstory@nate.com"
+git config user.email bkstory@nate.com
+
+
+git config --global --add safe.directory "D:/re2_simple/server"     >>> 폴더 초기 화
