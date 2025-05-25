@@ -13,6 +13,8 @@ function App() {
           <Link to="/board/TxtTodo">메모리방식</Link>
         </nav>
 
+        
+
         <Routes>
           {/* ✅ 루트("/") 접근 시 /board/txt 로 리디렉션 */}
           <Route path="/" element={<Navigate to="/board/DbTodo" replace />} />
