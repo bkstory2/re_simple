@@ -13,6 +13,8 @@ git config user.email bkstory@nate.com
 git config --global --add safe.directory "D:/re2_simple/server"     >>> 폴더 초기 화
 
 
-git    클라이언트 가져오기 git clone https://github.com/bkstory2/re_simple.git client
+1)   git 클라이언트  만들기 
+ git clone https://github.com/bkstory2/re_simple.git client
 
-git 서버 가져요기    git clone https://github.com/bkstory2/git_simple_server.git server
+2)    git 서버 가져요기     
+   git clone https://github.com/bkstory2/git_simple_server.git server
